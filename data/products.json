@@ -1,0 +1,738 @@
+[
+  {
+    "id": 1,
+
+    "name": "Barley Textured Panelled Low-Top Shoes",
+
+    "price": 32.99,
+
+    "gender": "Men",
+
+    "sizes": [
+      7,
+      8,
+      9
+    ],
+
+    "trending": true,
+
+    "images": [
+      "images/product1.webp",
+      "images/product1-1.webp",
+      "images/product1-2.webp",
+      "images/product1-3.webp"
+    ],
+
+    "description": "Textured casual shoes for smart, everyday styling.",
+
+    "longDes" : "Elevate your fashion game with our exquisite collection of shoes. Crafted with precision and attention to detail, these shoes combine comfort and elegance to give you a stunning look for any occasion. From sleek stilettos to casual sneakers, our range offers something for everyone, ensuring you never have to compromise on style.",
+   
+    "tabDes": "Step up your casual style with these Barley Textured Panelled Low-Top Shoes—a perfect blend of comfort and modern design. Crafted with precision, these shoes feature a unique barley-textured surface that adds a subtle yet distinct edge to your everyday look.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Casual & Lifestyle Shoes",
+
+    "features": [
+    "Premium Construction: Durable synthetic upper with a textured barley finish for a stylish and refined appeal.",
+    "Panelled Design: Clean, structured panels provide a sleek silhouette and enhanced durability.",
+    "Low-Top Profile: Offers ankle mobility and a lightweight feel, ideal for all-day wear.",
+    "Comfort Insole: Cushioned footbed ensures shock absorption and comfort with every step.",
+    "Versatile Styling: Neutral tones and minimal design make them easy to pair with jeans, joggers, or casual chinos.",
+    "Non-Slip Outsole: Rubber sole offers great traction on multiple surfaces for confident steps."
+  ],
+
+  "bestFor": "Daily wear, weekend outings, casual Fridays, and laid-back gatherings.",
+
+  "soleMaterial" : "TPR (Thermoplastic Rubber) – Durable, flexible, slip-resistant",
+
+  "upperMaterial" : "Textured synthetic leather with panelled stitch design",
+
+  "weight" : "Approx. 750g per pair (may vary slightly by size)",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Regular fit with lightly cushioned collar",
+
+  "rating" : 4.0
+
+  },
+
+
+
+  
+  {
+    "id": 2,
+
+    "name": "Wynk Textured Low-Top Lace-Up Sports Shoes",
+
+    "price": 40.99,
+
+    "gender": "Men",
+
+    "sizes": [
+      9,
+      8
+    ],
+    
+    "trending": false,
+
+    "images": [
+      "images/product2.webp",
+      "images/product2-1.webp",
+      "images/product2-2.webp",
+      "images/product2-3.webp"
+    ],
+
+    "description": "Flexible grip shoes for fast, everyday athletic moves.",
+
+    "longDes" : "Stay ahead in style and performance with the Wynk Textured Low-Top Sports Shoes. Featuring a breathable mesh upper, cushioned insole, and textured outsole for superior grip, these shoes are designed to keep up with your every move—whether you're training, walking, or just stepping out in style.",
+
+    "tabDes": "Stay light on your feet with Wynk Textured Low-Tops — built with breathable mesh, soft cushioning, and a non-slip sole that keeps up with your pace all day long.",
+
+    "edition": "Sneakers 2025 Limited Edition",
+
+    "sku": 12,
+
+    "shoeCat": "Sports & Running Shoes",
+
+    "features": [
+    "Breathable mesh upper with textured detail",
+    "Cushioned insole for all-day comfort",
+    "Lightweight sole with excellent grip",
+    "Comfort Insole: Cushioned footbed ensures shock absorption and comfort with every step.",
+    "Secure lace-up closure",
+    "Durable build for daily use"
+  ],
+
+  "bestFor": "Running errands, gym sessions, casual walks, and urban travel.",
+
+  "soleMaterial" : "EVA (Ethylene Vinyl Acetate) with rubberized grip pattern",
+
+  "upperMaterial" : "Breathable mesh fabric with synthetic overlays for durability",
+
+  "weight" : "Approx. 280g per shoe (may vary by size)",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Regular Fit – snug yet flexible for active movement",
+
+  "rating" : 4.4
+
+    
+  },
+
+
+
+  {
+    "id": 3,
+
+    "name": "Meteor Lace-Up Running Shoes",
+
+    "price": 43.99,
+
+    "gender": "Men",
+
+    "sizes": [
+      7,
+      10
+    ],
+
+    "trending": true,
+
+    "images": [
+      "images/product3.webp",
+      "images/product3-1.webp",
+      "images/product3-2.webp",
+      "images/product3-3.webp"
+      
+    ],
+
+    "description": "Built for speed, breathability, and smooth performance.",
+    
+    "longDes" : "Push your limits with the Meteor Lace-Up Running Shoes — built for performance and endurance. The engineered mesh upper keeps your feet cool, while the responsive sole ensures energy return with every stride. Lightweight and agile, these shoes are perfect for runners who need speed, comfort, and reliability in one.",
+
+    "tabDes": "Built for speed, breathability, and long-distance running comfort.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Sports & Running Shoes",
+
+    "features": [
+    "Lightweight construction for faster movement.",
+    "Breathable mesh upper with moisture control.",
+    "Shock-absorbing EVA sole with rubber grip.",
+    "Cushioned collar for ankle comfort.",
+    "Stylish design with reflective accents."
+  ],
+
+  "bestFor": "Long-distance road running, Daily jogging or cardio sessions, Gym workouts and active training",
+
+  "soleMaterial" : "High-density EVA with rubber traction layer",
+
+  "upperMaterial" : "Engineered mesh with synthetic overlays",
+
+  "weight" : "Approx. 260g per shoe (may vary by size)",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Athletic (Snug and supportive fit)",
+
+  "rating" : 3.8
+  },
+
+
+
+
+  {
+    "id": 4,
+
+    "name": "Titanium Lace-Up Sports Shoes",
+
+    "price": 36.99,
+
+    "gender": "Men",
+
+    "sizes": [
+      6,
+      7
+    ],
+
+    "trending": true,
+
+    "images": [
+      "images/product4.webp",
+      "images/product4-1.webp",
+      "images/product4-2.webp",
+      "images/product4-3.webp"
+      
+    ],
+
+    "description": "Rugged, responsive shoes made for high-energy workouts.",
+
+    "longDes" : "Unleash next-level performance with the Titanium Lace-Up Sports Shoes — built for athletes who push boundaries. Designed with a rugged outsole, breathable upper, and responsive midsole, these shoes offer superior grip, support, and comfort during high-intensity sessions. Whether you’re training indoors or outdoors, Titanium keeps your movement powerful and precise.",
+
+    "tabDes": "Durable, lightweight sports shoes offering superior support, grip, and comfort for high-performance training.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Sports & Running Shoes",
+
+    "features": [
+    "High-traction sole with impact absorption.",
+    "Breathable upper with reinforced toe cap.",
+    "Cushioned insole for long-lasting comfort.",
+    "Lightweight yet durable for extended wear.",
+    "Stylish athletic design with performance detailing."
+  ],
+
+  "bestFor": "Gym workouts and circuit training, CrossFit, HIIT, and functional fitness, Outdoor runs and field exercises",
+
+  "soleMaterial" : "Dual-density EVA with rubber grip pods",
+
+  "upperMaterial" : "Mesh fabric with synthetic overlays",
+
+  "weight" : "Approx. 290g per shoe (varies by size)",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Regular Athletic Fit",
+
+  "rating" : 4.0
+  },
+
+
+
+
+  {
+    "id": 5,
+
+    "name": "Sprite Yoga Softy Set",
+
+    "price": 39.99,
+
+    "gender": "Women",
+
+    "sizes": [
+      8,
+      9
+    ],
+
+    "trending": true,
+
+    "images": [
+      "images/product5.webp",
+      "images/product5-1.webp",
+      "images/product5-2.webp",
+      "images/product5-3.webp"
+      
+    ],
+
+    "description": "Ultra-soft, stretch-fit yoga set for mindful movement.",
+
+    "longDes" : "The Sprite Yoga Softy Set is designed to support your calm, confident, and flexible movement. Crafted with ultra-soft, stretchable fabric, it offers unrestricted flow during yoga, Pilates, or lounging. Moisture-wicking and lightweight, it hugs the body with comfort — letting you breathe, bend, and move with ease and confidence.",
+
+    "tabDes": "Ultra-soft, stretchable yoga set designed for flexibility, breathability, and all-day movement comfort.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Athleisure & Yoga",
+
+    "features": [
+    "Buttery-soft, 4-way stretch fabric.",
+    "Lightweight and breathable for hot or cool sessions.",
+    "Moisture-wicking and quick-dry technology.",
+    "High-waisted, secure leggings with body-hugging fit.",
+    "Minimal seam design for distraction-free wear."
+  ],
+
+  "bestFor": "Yoga, stretching, and meditation, Pilates and barre workouts, At-home lounging and active rest days",
+
+  "soleMaterial" : "TPR (Thermoplastic Rubber) – Durable, flexible, slip-resistant",
+
+  "upperMaterial" : "Polyester-Spandex blend (80% Poly, 20% Spandex)",
+
+  "weight" : "Approx. 450g per full set",
+
+  "closureType" : "Pull-on (elastic waistband & stretch top)",
+
+  "fitType" : "Body-hugging, flexible athletic fit",
+
+  "rating" : 5.0
+  },
+
+
+
+
+  {
+    "id": 6,
+
+    "name": "Laced Joggers for Men",
+
+    "price": 46.99,
+
+    "gender": "Women",
+
+    "sizes": [
+      6,
+      8
+    ],
+
+    "trending": false,
+
+    "images": [
+      "images/product6.webp",
+      "images/product6-1.webp",
+      "images/product6-2.webp",
+      "images/product6-3.webp"
+      
+    ],
+
+    "description": "Sporty joggers for active comfort and relaxed looks.",
+
+    "longDes" : "Designed for style and comfort, the Laced Joggers for Men combine everyday ease with sporty edge. Featuring a breathable upper, cushioned sole, and secure lacing, they’re perfect for men on the move. Whether you're hitting the gym or heading out casually, these joggers offer all-day versatility and support.",
+
+    "tabDes": "Everyday joggers with sporty comfort, cushioned support, and a breathable fit for active routines.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Casual & Lifestyle Shoes",
+
+    "features": [
+    "Breathable mesh upper for better airflow.",
+    "EVA sole with soft cushioning for daily use.",
+    "Secure lace-up for customized fit.",
+    "Lightweight structure with durable stitching.",
+    "Neutral design to match casual and athletic looks."
+  ],
+
+  "bestFor": "Walking and casual outdoor wear, Light workouts and daily errands, Commuting with comfort and style",
+
+  "soleMaterial" : "Soft EVA with flexible traction base",
+
+  "upperMaterial" : "Mesh and synthetic textile combo",
+
+  "weight" : "Approx. 310g per shoe",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Relaxed Athletic Fit",
+
+  "rating" : 3.8
+  },
+
+
+
+
+  {
+    "id": 7,
+
+    "name": "Sports Shoes of High Quality",
+
+    "price": 51.99,
+
+    "gender": "Men",
+
+    "sizes": [
+      8,
+      9
+    ],
+
+    "trending": false,
+
+    "images": [
+      "images/product7.webp",
+      "images/product7-1.webp",
+      "images/product7-2.webp",
+      "images/product7-3.webp"
+      
+    ],
+
+    "description": "Durable, premium build for pros and daily training.",
+
+    "longDes" : "Engineered for peak performance and built to last, these high-quality sports shoes deliver superior comfort, durability, and support. With premium materials and advanced cushioning, they’re ideal for athletes and enthusiasts who demand excellence in every step — whether on the field, in the gym, or on the go.",
+
+    "tabDes": "Premium sports shoes offering maximum comfort, durability, and stability for intense workouts and daily performance.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Sports & Running Shoes",
+
+    "features": [
+    "Reinforced sole for shock absorption and stability.",
+    "Breathable mesh upper with high-wear durability zones.",
+    "All-day comfort with cushioned, arch-supportive footbed.",
+    "Performance-grade materials for active use.",
+    "Sleek, versatile design that suits sport and lifestyle."
+  ],
+
+  "bestFor": "High-impact gym and training sessions, Sports performance and cardio workouts, Long-wear daily use with athletic demands",
+
+  "soleMaterial" : "Dual-layer EVA with rubber inserts for grip",
+
+  "upperMaterial" : "Engineered mesh with TPU reinforcements",
+
+  "weight" : "Approx. 320g per shoe",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Athletic Supportive Fit",
+
+  "rating" : 4.2
+  },
+
+
+
+  {
+    "id": 8,
+
+    "name": "Explore Mid-Top Lace-Up Casual Shoes",
+
+    "price": 28.99,
+
+    "gender": "Men",
+
+    "sizes": [
+      6,
+      10
+    ],
+
+   "trending": true,
+
+    "images": [
+      "images/product8.webp",
+      "images/product8-1.webp",
+      "images/product8-2.webp",
+      "images/product8-3.webp"
+     
+    ],
+
+    "description": "Comfortable mid-tops with bold, street-ready design.",
+
+    "longDes" : "Take on every day with the Explore Mid-Top Lace-Up Casual Shoes — a perfect fusion of streetwear style and casual comfort. The mid-top silhouette adds ankle support and edge, while the cushioned insole and durable sole make these a go-to for all-day urban adventures or relaxed weekends.",
+
+    "tabDes": "Mid-top casual shoes blending street style, ankle support, and everyday walking comfort.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "SneaCasual & Lifestyle Shoeskers",
+
+    "features": [
+    "Mid-top design for added ankle coverage.",
+    "Textured outsole with slip-resistant grip.",
+    "Cushioned footbed for long-hour comfort.",
+    "Breathable textile upper with contrast detailing.",
+    "Stylish lace-up closure with durable build."
+  ],
+
+  "bestFor": "Daily wear and casual outings, Weekend travel or city walking, Smart-casual styling with denim or joggers",
+
+  "soleMaterial" : "Rubberized EVA for durability and grip",
+
+  "upperMaterial" : "Breathable canvas-textile blend",
+
+  "weight" : "Approx. 340g per shoe",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Regular fit",
+
+  "rating" : 4.7
+  },
+
+
+  {
+    "id": 9,
+
+    "name": "Omax Lace-Up Sports Shoes",
+
+    "price": 33.49,
+
+    "gender": "Women",
+
+    "sizes": [
+      6,
+      7
+    ],
+
+    "trending": false,
+
+    "images": [
+      "images/product9.webp",
+      "images/product9-1.webp",
+      "images/product9-2.webp",
+      "images/product9-3.webp"
+      
+    ],
+
+    "description": "Supportive, lightweight design with active cushioning comfort.",
+
+    "longDes" : "The Omax Lace-Up Sports Shoes are built to energize your active lifestyle with comfort and control. Featuring a breathable mesh upper, soft padded collar, and a lightweight sole with enhanced grip, they’re ideal for workouts, daily runs, or on-the-go routines — keeping every step light, stable, and responsive.",
+
+    "tabDes": "Lightweight sports shoes with breathable build, soft padding, and responsive outsole grip.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Sports & Running Shoes",
+
+    "features": [
+    "Lightweight sole with flexible grip zones.",
+    "Breathable mesh upper with airflow control.",
+    "Cushioned collar and tongue for added comfort.",
+    "Ideal for light workouts and daily movement.",
+    "Minimalist design with sporty edge."
+  ],
+
+  "bestFor": "Jogging and light cardio workouts, Gym training and warm-ups, Everyday sporty-casual wear",
+
+  "soleMaterial" : "EVA foam with grooved rubber grip",
+
+  "upperMaterial" : "Open-weave mesh with stitched overlays",
+
+  "weight" : "Approx. 275g per shoe",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Snug Active Fit",
+
+  "rating" : 4.9
+  },
+
+
+  {
+    "id": 10,
+
+    "name": "Vacum Lace-Up Running Shoes",
+
+    "price": 38.99,
+
+    "gender": "Women",
+
+    "sizes": [
+      7,
+      10
+    ],
+
+    "trending": false,
+
+    "images": [
+      "images/product10.webp",
+      "images/product10-1.webp",
+      "images/product10-2.webp",
+      "images/product10-3.webp"
+      
+    ],
+
+    "description": "Breathable running shoes with shock-absorbing sole system.",
+
+    "longDes" : "Designed to go the distance, the Vacum Lace-Up Running Shoes deliver lightweight agility with firm support. The breathable mesh upper keeps your feet cool, while the cushioned sole absorbs impact and boosts energy return. Whether you’re training for speed or endurance, Vacum helps you stay grounded and going strong.",
+
+    "tabDes": "Performance running shoes with breathable mesh and shock-absorbing sole for lasting speed and support.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Sports & Running Shoes",
+
+    "features": [
+    "Airy mesh upper for ventilation during runs.",
+    "EVA midsole with energy return cushioning.",
+    "Lightweight design that reduces fatigue.",
+    "Padded heel collar for comfort and fit.",
+    "Outsole designed for high-traction road grip."
+  ],
+
+  "bestFor": "Distance and interval running, Daily training and speed drills, Lightweight athletic performance.",
+
+  "soleMaterial" : "EVA foam midsole with textured rubber outsole",
+
+  "upperMaterial" : "Breathable mesh with fused overlays",
+
+  "weight" : "Approx. 265g per shoe",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Athletic Performance Fit",
+
+  "rating" : 4.0
+  },
+
+
+  {
+    "id": 11,
+
+    "name": "Europa Lace-Up Running Shoes",
+
+    "price": 30.49,
+
+    "gender": "Women",
+
+    "sizes": [
+      6,
+      8
+    ],
+
+    "trending": false,
+
+    "images": [
+      "images/product11.webp",
+      "images/product11-1.webp",
+      "images/product11-2.webp",
+      "images/product11-3.webp"
+      
+    ],
+
+    "description": "Long-run performance shoes with sleek and steady stride.",
+
+    "longDes" : "Take your stride further with the Europa Lace-Up Running Shoes — designed for runners who demand stability and breathability without sacrificing comfort. With a shock-absorbing sole, breathable upper, and supportive fit, Europa empowers you to go faster, longer, and stronger whether on pavement or treadmill.",
+
+    "tabDes": "Stability-focused running shoes with breathable comfort and responsive cushioning for serious runners.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Sports & Running Shoes",
+
+    "features": [
+    "Dual-layer sole for shock absorption and support.",
+    "Mesh upper ensures airflow during intense runs.",
+    "Padded ankle collar for enhanced fit.",
+    "Lightweight design that reduces fatigue.",
+    "Grip-patterned outsole for traction on various surfaces."
+  ],
+
+  "bestFor": "Long-distance running and daily jogging, Treadmill training or outdoor roadwork, Runners seeking support and breathability",
+
+  "soleMaterial" : "EVA midsole with durable rubber outsole",
+
+  "upperMaterial" : "Mesh textile with synthetic reinforcement",
+
+  "weight" : "Approx. 285g per shoe",
+
+  "closureType" : "Lace-up",
+
+  "fitType" : "Structured Athletic Fit",
+
+  "rating" : 5.0
+  },
+
+  {
+    "id": 12,
+
+    "name": "Literide Perforated Slingback Clogs",
+
+    "price": 34.99,
+
+    "gender": "Men",
+
+    "sizes": [
+      9,
+      8
+    ],
+
+    "trending": false,
+
+    "images": [
+     "images/product12.webp",
+     "images/product12-1.webp",
+     "images/product12-2.webp",
+     "images/product12-3.webp"
+      
+    ],
+
+    "description": "Retro-court sneakers for versatile, urban everyday wear.",
+
+    "longDes" : "Experience the perfect fusion of comfort and breathability with the Literide Perforated Slingback Clogs. Designed with a soft foam footbed and airy perforated upper, these clogs are ideal for relaxed days, casual strolls, or post-workout recovery. The slingback strap adds security while maintaining a slip-on feel that’s effortless and versatile.",
+
+    "tabDes": "Lightweight slingback clogs with airy design, cushioned support, and all-day casual comfort.",
+
+    "edition": "Sneakers 2023 Limited Edition",
+
+    "sku": 11,
+
+    "shoeCat": "Casual & Lifestyle Shoes",
+
+    "features": [
+    "Perforated upper for airflow and ventilation.",
+    "Ultra-soft Literide™ foam footbed for cushioned comfort.",
+    "Slingback strap for secure wear and easy movement.",
+    "Comfort Insole: Cushioned footbed ensures shock absorption and comfort with every step.",
+    "Lightweight, flexible build for daily use.",
+    "Water-friendly and easy to clean."
+  ],
+
+  "bestFor": "Casual wear and daily errands, Travel and vacation walks, Recovery and post-gym relaxation.",
+
+  "soleMaterial" : "Molded EVA with flexible rubber bottom",
+
+  "upperMaterial" : "Synthetic perforated rubber-like material",
+
+  "weight" : "Approx. 210g per shoe",
+
+  "closureType" : "Slingback strap",
+
+  "fitType" : "Relaxed Slip-On Fit",
+
+  "rating" : 4.7
+  }
+
+
+]
