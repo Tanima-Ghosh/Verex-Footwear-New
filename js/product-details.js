@@ -177,42 +177,11 @@ function showTooltip(message) {
   }, 2000);
 }
 
-// Add to Cart
-function addToCart(productId) {
-  const selectedSize = document.getElementById("selectedSize").value;
-
-  if (!selectedSize) {
-    showTooltip("Please select a size before adding to cart.");
-    return;
-  }
-
-  let cart = JSON.parse(localStorage.getItem("cart")) || [];
-  const index = cart.findIndex(item => item.id === productId && item.size === selectedSize);
-
-  if (index !== -1) {
-    cart[index].quantity += 1;
-  } else {
-    cart.push({ id: productId, quantity: 1, size: selectedSize });
-  }
-
-  localStorage.setItem("cart", JSON.stringify(cart));
-  updateCartCount();
-  showTooltip("Added to cart");
-}
 
 
-// Wishlist logic
-function addToWishlist(productId) {
-  let wishlist = JSON.parse(localStorage.getItem("wishlist")) || [];
-  if (!wishlist.includes(productId)) {
-    wishlist.push(productId);
-    localStorage.setItem("wishlist", JSON.stringify(wishlist));
-    updateWishlistCount();
-    showTooltip("Added to wishlist");
-  } else {
-    showTooltip("Already in wishlist");
-  }
-}
+
+
+
 
 // Update cart badge
 function updateCartCount() {

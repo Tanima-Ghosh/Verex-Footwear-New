@@ -60,7 +60,7 @@ function renderProducts(products) {
   }
 
   container.innerHTML = products.map(product => `
-    <div class="col-md-4">
+    <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
       <div class="product-box h-100 d-flex flex-column">
         ${product.trending ? `<span class="badge-trending"> Trending </span>` : ""}
         <div class="product-img-container">
